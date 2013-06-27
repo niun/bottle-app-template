@@ -1,4 +1,4 @@
-bottle-app-template
-===================
+Bottle.py App Template
+======================
 
-Simple template for an app using the bottle.py framework
+This is a simple template for an app using the bottle.py framework in debug mode.
